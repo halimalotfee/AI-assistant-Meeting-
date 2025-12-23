@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meeting AI Assistant – Report Generator
 
 Ce projet permet de générer des **rapports de réunion** à partir de fichiers audio.
