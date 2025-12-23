@@ -126,7 +126,7 @@ streamlit run streamlit_app.py
 Voici quelques captures d’écran illustrant le fonctionnement de l’application :
 
 ### 🔹 Interface Streamlit – Transcription Audio
-![Interface Streamlit](images/1 CAN.png)
+![Interface Streamlit](images/1 CAP.png)
 
 ### 🔹 Résumé Structuré du Rapport (PDF)
 ![Résumé Structuré](images/pdf1.png)
